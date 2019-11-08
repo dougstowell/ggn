@@ -1,0 +1,245 @@
+{
+  "styles": ["Synth-pop"],
+  "genres": ["Electronic"],
+  "videos": [
+    {
+      "duration": 276,
+      "description": "Depeche Mode - Enjoy The Silence (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=diT3FvDHMyo",
+      "title": "Depeche Mode - Enjoy The Silence (Official Video)"
+    },
+    {
+      "duration": 354,
+      "description": "Depeche Mode - World In My Eyes (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=nhZdL4JlnxI",
+      "title": "Depeche Mode - World In My Eyes (Official Video)"
+    },
+    {
+      "duration": 270,
+      "description": "Depeche Mode - Halo (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=iEH4eqtK8SU",
+      "title": "Depeche Mode - Halo (Official Video)"
+    },
+    {
+      "duration": 226,
+      "description": "Depeche Mode - Personal Jesus (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=u1xrNaTO1bI",
+      "title": "Depeche Mode - Personal Jesus (Official Video)"
+    },
+    {
+      "duration": 249,
+      "description": "Depeche Mode - Policy Of Truth (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=M2VBmHOYpV8",
+      "title": "Depeche Mode - Policy Of Truth (Official Video)"
+    },
+    {
+      "duration": 356,
+      "description": "Depeche Mode - Clean (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=h1mD-_DKHc0",
+      "title": "Depeche Mode - Clean (Official Video)"
+    }
+  ],
+  "num_for_sale": 1264,
+  "title": "Violator",
+  "most_recent_release": 14132956,
+  "main_release": 49769,
+  "notes": "Depeche Mode's 7th studio album.\r\n\r\nIncludes the singles:\r\nPersonal Jesus\r\nEnjoy The Silence\r\nPolicy Of Truth\r\nWorld In My Eyes",
+  "main_release_url": "https://api.discogs.com/releases/49769",
+  "uri": "https://www.discogs.com/Depeche-Mode-Violator/master/18080",
+  "artists": [
+    {
+      "join": "",
+      "name": "Depeche Mode",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/2725",
+      "id": 2725
+    }
+  ],
+  "versions_url": "https://api.discogs.com/masters/18080/versions",
+  "data_quality": "Correct",
+  "most_recent_release_url": "https://api.discogs.com/releases/14132956",
+  "year": 1990,
+  "images": [
+    {
+      "uri": "",
+      "height": 595,
+      "width": 600,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 472,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 606,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 595,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 594,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 595,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 589,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 594,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 589,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 592,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 589,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 593,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "resource_url": "https://api.discogs.com/masters/18080",
+  "lowest_price": 1.5,
+  "id": 18080,
+  "tracklist": [
+    {
+      "duration": "4:26",
+      "position": "1",
+      "type_": "track",
+      "title": "World In My Eyes"
+    },
+    {
+      "duration": "4:43",
+      "position": "2",
+      "type_": "track",
+      "title": "Sweetest Perfection"
+    },
+    {
+      "duration": "4:56",
+      "position": "3",
+      "type_": "track",
+      "title": "Personal Jesus"
+    },
+    { "duration": "4:30", "position": "4", "type_": "track", "title": "Halo" },
+    {
+      "duration": "6:07",
+      "position": "5",
+      "type_": "track",
+      "title": "Waiting For The Night"
+    },
+    {
+      "duration": "6:13",
+      "position": "6",
+      "type_": "track",
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Daniel Miller",
+          "anv": "",
+          "tracks": "",
+          "role": "Mixed By",
+          "resource_url": "https://api.discogs.com/artists/9857",
+          "id": 9857
+        },
+        {
+          "join": "",
+          "name": "Flood",
+          "anv": "",
+          "tracks": "",
+          "role": "Mixed By",
+          "resource_url": "https://api.discogs.com/artists/20661",
+          "id": 20661
+        }
+      ],
+      "title": "Enjoy The Silence"
+    },
+    {
+      "duration": "4:55",
+      "position": "7",
+      "type_": "track",
+      "title": "Policy Of Truth"
+    },
+    {
+      "duration": "5:42",
+      "position": "8",
+      "type_": "track",
+      "title": "Blue Dress"
+    },
+    { "duration": "5:28", "position": "9", "type_": "track", "title": "Clean" }
+  ]
+}

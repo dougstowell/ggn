@@ -1,0 +1,544 @@
+{
+  "styles": ["Synth-pop"],
+  "videos": [
+    {
+      "duration": 276,
+      "description": "Depeche Mode - Enjoy The Silence (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=diT3FvDHMyo",
+      "title": "Depeche Mode - Enjoy The Silence (Official Video)"
+    },
+    {
+      "duration": 354,
+      "description": "Depeche Mode - World In My Eyes (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=nhZdL4JlnxI",
+      "title": "Depeche Mode - World In My Eyes (Official Video)"
+    },
+    {
+      "duration": 270,
+      "description": "Depeche Mode - Halo (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=iEH4eqtK8SU",
+      "title": "Depeche Mode - Halo (Official Video)"
+    },
+    {
+      "duration": 226,
+      "description": "Depeche Mode - Personal Jesus (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=u1xrNaTO1bI",
+      "title": "Depeche Mode - Personal Jesus (Official Video)"
+    },
+    {
+      "duration": 249,
+      "description": "Depeche Mode - Policy Of Truth (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=M2VBmHOYpV8",
+      "title": "Depeche Mode - Policy Of Truth (Official Video)"
+    },
+    {
+      "duration": 356,
+      "description": "Depeche Mode - Clean (Official Video)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=h1mD-_DKHc0",
+      "title": "Depeche Mode - Clean (Official Video)"
+    }
+  ],
+  "series": [],
+  "labels": [
+    {
+      "name": "Mute",
+      "entity_type": "1",
+      "catno": "CD Stumm 64",
+      "resource_url": "https://api.discogs.com/labels/26391",
+      "id": 26391,
+      "entity_type_name": "Label"
+    }
+  ],
+  "year": 0,
+  "community": {
+    "status": "Accepted",
+    "rating": { "count": 3, "average": 4.67 },
+    "have": 19,
+    "contributors": [
+      {
+        "username": "jcomin",
+        "resource_url": "https://api.discogs.com/users/jcomin"
+      },
+      {
+        "username": "AndyWhelan",
+        "resource_url": "https://api.discogs.com/users/AndyWhelan"
+      }
+    ],
+    "want": 168,
+    "submitter": {
+      "username": "jcomin",
+      "resource_url": "https://api.discogs.com/users/jcomin"
+    },
+    "data_quality": "Needs Vote"
+  },
+  "artists": [
+    {
+      "join": "",
+      "name": "Depeche Mode",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/2725",
+      "id": 2725
+    }
+  ],
+  "images": [
+    {
+      "uri": "",
+      "height": 595,
+      "width": 600,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 472,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 606,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 597,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 202,
+      "width": 331,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 500,
+      "width": 501,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 500,
+      "width": 498,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "format_quantity": 1,
+  "id": 6807327,
+  "artists_sort": "Depeche Mode",
+  "genres": ["Electronic"],
+  "thumb": "",
+  "num_for_sale": 0,
+  "title": "Violator",
+  "date_changed": "2016-04-17T11:39:28-07:00",
+  "master_id": 18080,
+  "lowest_price": null,
+  "status": "Accepted",
+  "estimated_weight": 85,
+  "master_url": "https://api.discogs.com/masters/18080",
+  "date_added": "2015-03-22T08:55:06-07:00",
+  "tracklist": [
+    {
+      "duration": "4:26",
+      "position": "1",
+      "type_": "track",
+      "title": "World In My Eyes"
+    },
+    {
+      "duration": "4:43",
+      "position": "2",
+      "type_": "track",
+      "title": "Sweetest Perfection"
+    },
+    {
+      "duration": "4:56",
+      "position": "3",
+      "type_": "track",
+      "title": "Personal Jesus"
+    },
+    { "duration": "4:30", "position": "4", "type_": "track", "title": "Halo" },
+    {
+      "duration": "6:07",
+      "position": "5",
+      "type_": "track",
+      "title": "Waiting For The Night"
+    },
+    {
+      "duration": "6:13",
+      "position": "6",
+      "type_": "track",
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Daniel Miller",
+          "anv": "",
+          "tracks": "",
+          "role": "Mixed By",
+          "resource_url": "https://api.discogs.com/artists/9857",
+          "id": 9857
+        },
+        {
+          "join": "",
+          "name": "Flood",
+          "anv": "",
+          "tracks": "",
+          "role": "Mixed By",
+          "resource_url": "https://api.discogs.com/artists/20661",
+          "id": 20661
+        }
+      ],
+      "title": "Enjoy The Silence"
+    },
+    {
+      "duration": "4:55",
+      "position": "7",
+      "type_": "track",
+      "title": "Policy Of Truth"
+    },
+    {
+      "duration": "5:42",
+      "position": "8",
+      "type_": "track",
+      "title": "Blue Dress"
+    },
+    { "duration": "5:28", "position": "9", "type_": "track", "title": "Clean" }
+  ],
+  "extraartists": [
+    {
+      "join": "",
+      "name": "Alan Gregorie",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/36660",
+      "id": 36660
+    },
+    {
+      "join": "",
+      "name": "Dennis Mitchell",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/55744",
+      "id": 55744
+    },
+    {
+      "join": "",
+      "name": "Goh Hotoda",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/25828",
+      "id": 25828
+    },
+    {
+      "join": "",
+      "name": "Peter Iversen",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/254392",
+      "id": 254392
+    },
+    {
+      "join": "",
+      "name": "Phil Legg",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/34292",
+      "id": 34292
+    },
+    {
+      "join": "",
+      "name": "Pino Pischetola",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/305009",
+      "id": 305009
+    },
+    {
+      "join": "",
+      "name": "Steve Lyon",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/27412",
+      "id": 27412
+    },
+    {
+      "join": "",
+      "name": "Daryl Bamonte",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/244044",
+      "id": 244044
+    },
+    {
+      "join": "",
+      "name": "David Browne",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/436978",
+      "id": 436978
+    },
+    {
+      "join": "",
+      "name": "Dick Meaney",
+      "anv": "Dick Meany",
+      "tracks": "",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/40687",
+      "id": 40687
+    },
+    {
+      "join": "",
+      "name": "Mark Flannery",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/277252",
+      "id": 277252
+    },
+    {
+      "join": "",
+      "name": "Ricky (6)",
+      "anv": "",
+      "tracks": "",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/436976",
+      "id": 436976
+    },
+    {
+      "join": "",
+      "name": "Fran\u00e7ois Kevorkian",
+      "anv": "",
+      "tracks": "1 to 5, 7 to 9",
+      "role": "Mixed By",
+      "resource_url": "https://api.discogs.com/artists/20662",
+      "id": 20662
+    },
+    {
+      "join": "",
+      "name": "Alan Wilder",
+      "anv": "",
+      "tracks": "",
+      "role": "Performer [Depeche Mode]",
+      "resource_url": "https://api.discogs.com/artists/25411",
+      "id": 25411
+    },
+    {
+      "join": "",
+      "name": "Andrew Fletcher",
+      "anv": "",
+      "tracks": "",
+      "role": "Performer [Depeche Mode]",
+      "resource_url": "https://api.discogs.com/artists/132774",
+      "id": 132774
+    },
+    {
+      "join": "",
+      "name": "Dave Gahan",
+      "anv": "David Gahan",
+      "tracks": "",
+      "role": "Performer [Depeche Mode]",
+      "resource_url": "https://api.discogs.com/artists/27158",
+      "id": 27158
+    },
+    {
+      "join": "",
+      "name": "Martin L. Gore",
+      "anv": "Martin Gore",
+      "tracks": "",
+      "role": "Performer [Depeche Mode]",
+      "resource_url": "https://api.discogs.com/artists/26847",
+      "id": 26847
+    },
+    {
+      "join": "",
+      "name": "Depeche Mode",
+      "anv": "",
+      "tracks": "",
+      "role": "Producer",
+      "resource_url": "https://api.discogs.com/artists/2725",
+      "id": 2725
+    },
+    {
+      "join": "",
+      "name": "Flood",
+      "anv": "",
+      "tracks": "",
+      "role": "Producer",
+      "resource_url": "https://api.discogs.com/artists/20661",
+      "id": 20661
+    },
+    {
+      "join": "",
+      "name": "Anton Corbijn",
+      "anv": "",
+      "tracks": "",
+      "role": "Sleeve",
+      "resource_url": "https://api.discogs.com/artists/325010",
+      "id": 325010
+    },
+    {
+      "join": "",
+      "name": "Area (10)",
+      "anv": "",
+      "tracks": "",
+      "role": "Sleeve",
+      "resource_url": "https://api.discogs.com/artists/1833427",
+      "id": 1833427
+    },
+    {
+      "join": "",
+      "name": "Martin L. Gore",
+      "anv": "M L Gore",
+      "tracks": "",
+      "role": "Written-By",
+      "resource_url": "https://api.discogs.com/artists/26847",
+      "id": 26847
+    }
+  ],
+  "country": "UK",
+  "notes": "Recorded & mixed at:\nLogic Studios, Milan,\nPUK Studios, Denmark,\nThe Church, London,\nMaster Rock Studios, London,\nAxis, New York.\nMade in Great Britain\n\nVariations of this UK CD\n[url=http://www.discogs.com/release/49769]  1) First Nimbus release without SID Codes [/url] \n2) Mastered By Nimbus with Mould SID Code (This one)\n[url=http://www.discogs.com/release/6807635]  3) Mastered By Nimbus with Mastering and Mould SID Codes [/url] \n[url=http://www.discogs.com/release/8402993]  4) Nimbus [logo] with Mastering and Mould SID Codes [/url] ",
+  "identifiers": [
+    { "type": "Barcode", "description": "String", "value": "5016025610648" },
+    { "type": "Barcode", "description": "Text", "value": "5 016025 610648" },
+    {
+      "type": "Matrix / Runout",
+      "value": "CDSTUMM64 :  1:4   mastered by nimbus"
+    },
+    { "type": "Mould SID Code", "value": "ifpi 2308" }
+  ],
+  "companies": [
+    {
+      "name": "Mute Records Ltd.",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/636",
+      "id": 636,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Mute Records Ltd.",
+      "entity_type": "14",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/636",
+      "id": 636,
+      "entity_type_name": "Copyright (c)"
+    },
+    {
+      "name": "Grabbing Hands",
+      "entity_type": "21",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/275663",
+      "id": 275663,
+      "entity_type_name": "Published By"
+    },
+    {
+      "name": "Sonet Publishing",
+      "entity_type": "21",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/266398",
+      "id": 266398,
+      "entity_type_name": "Published By"
+    },
+    {
+      "name": "Logic Studios",
+      "entity_type": "23",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/275272",
+      "id": 275272,
+      "entity_type_name": "Recorded At"
+    },
+    {
+      "name": "Puk Recording Studios",
+      "entity_type": "23",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/269762",
+      "id": 269762,
+      "entity_type_name": "Recorded At"
+    },
+    {
+      "name": "The Church, London",
+      "entity_type": "23",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/273118",
+      "id": 273118,
+      "entity_type_name": "Recorded At"
+    },
+    {
+      "name": "Master Rock Studios",
+      "entity_type": "27",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/266266",
+      "id": 266266,
+      "entity_type_name": "Mixed At"
+    },
+    {
+      "name": "Axis Studios",
+      "entity_type": "27",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/266630",
+      "id": 266630,
+      "entity_type_name": "Mixed At"
+    },
+    {
+      "name": "The Church, London",
+      "entity_type": "27",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/273118",
+      "id": 273118,
+      "entity_type_name": "Mixed At"
+    },
+    {
+      "name": "Logic Studios",
+      "entity_type": "27",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/275272",
+      "id": 275272,
+      "entity_type_name": "Mixed At"
+    },
+    {
+      "name": "Nimbus",
+      "entity_type": "31",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/93218",
+      "id": 93218,
+      "entity_type_name": "Glass Mastered At"
+    }
+  ],
+  "uri": "https://www.discogs.com/Depeche-Mode-Violator/release/6807327",
+  "formats": [
+    { "descriptions": ["Album", "Repress"], "name": "CD", "qty": "1" }
+  ],
+  "resource_url": "https://api.discogs.com/releases/6807327",
+  "data_quality": "Needs Vote"
+}
